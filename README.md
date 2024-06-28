@@ -1,2 +1,2 @@
-# Telco-Customer-Churn
+# Telco-Customer-Churn-Prediction
 Telco Churn Prediction
